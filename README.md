@@ -8,4 +8,4 @@ This repository contains the material from a short lecture I gave on using table
 - `samples` folder contains dummy text and data
 - `TeleLaTeX_2020-21.pdf` is the collaborative guide written by G. Cusimano, E. Di Benedetto and myself during the 2021 edition of TeleLaTeX (in Italian)
 - the lecture slides are in `telelatex_lect3_dec2023.pdf`
-- `dark_side` contains the TeX file to recreate a very familiar image :)
+- `dark_side` contains a TeX file which recreates a very familiar image :)
